@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 525A-7BA5
+
+ Directory of C:\Users\pomeally\Desktop\javaproject1
+
+02/21/2018  11:56 AM    <DIR>          .
+02/21/2018  11:56 AM    <DIR>          ..
+02/21/2018  11:07 AM               674 Hello.class
+02/21/2018  10:18 AM               182 hello.java
+02/21/2018  11:56 AM                 0 read.txt
+               3 File(s)            856 bytes
+               2 Dir(s)  130,142,318,592 bytes free
